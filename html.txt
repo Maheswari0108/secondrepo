@@ -1,0 +1,5 @@
+GitHub Sample Repositories
+The GitHub Samples organization provides a variety of sample projects and walkthroughs across multiple programming languages and frameworks. Examples include:
+
+Minimal and modern developer portfolio templates built with Next.js and Tailwind CSS
+Turn-based games apps like Tic-Tac-Toe and Rock Paper Scissors with AI opponents
